@@ -36,3 +36,4 @@ root                    (project root folder)
 ## Authors
 ---
 * Kameron Squire itkametopass@gmail.com
+* Bogdan Kovachuk bogdan.kovalchuk.1992@gmail.com
